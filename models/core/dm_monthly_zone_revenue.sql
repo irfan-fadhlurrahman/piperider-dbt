@@ -22,10 +22,10 @@ with trips_data as (
     sum(total_amount) as revenue_monthly_total_amount,
     sum(congestion_surcharge) as revenue_monthly_congestion_surcharge,
 
-    -- Additional calculations
-    count(tripid) as total_monthly_trips,
-    avg(passenger_count) as avg_montly_passenger_count,
-    avg(trip_distance) as avg_montly_trip_distance
+    Additional calculations
+    -- count(tripid) as total_monthly_trips,
+    -- avg(passenger_count) as avg_montly_passenger_count,
+    -- avg(trip_distance) as avg_montly_trip_distance
 
     from trips_data
     group by 1,2,3

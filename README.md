@@ -337,4 +337,4 @@ PipeRider also supports comparing metrics between runs. The comarison is visuali
 - Learn more about PipeRider [in the docs](https://docs.piperider.io)
 - Visit the PipeRider [homepage](https://piperider.io)
 - Join the PipeRider [Discord](https://discord.gg/328QcXnkKD) for help and discussion
-- Read the PipeRider [blog](https://blog.piperider.io) for articles about PipeRider
+- Read the PipeRider [blog](https://blog.piperider.io) for articles about PipeRider# piperider-dbt
